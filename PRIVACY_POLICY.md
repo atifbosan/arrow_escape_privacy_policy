@@ -91,14 +91,4 @@ We may update this Privacy Policy from time to time. Any changes will be reflect
 If you have any questions or concerns about this Privacy Policy, please contact us:
 
 **Email:** atifbosan63@gmail.com  
-**GitHub:** [Arrow Escape Repository](https://github.com/atifbosan63/arrow_escape)
 
----
-
-## 9. Governing Law
-
-This Privacy Policy is governed by the laws of Pakistan. Any disputes arising in connection with this policy shall be subject to the jurisdiction of the courts of Pakistan.
-
----
-
-_This privacy policy was last updated on April 20, 2026._
