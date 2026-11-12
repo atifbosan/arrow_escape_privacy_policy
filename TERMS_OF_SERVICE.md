@@ -1,8 +1,8 @@
 # Terms of Service
 
-**App:** Block Escape X: Unblock Puzzle (package `com.bosantechub.arrowescap`)
-**Provider (Trader):** Muhammad Atif, trading as TeraBit Tech
-**Effective Date:** November 12, 2026
+**App:** Block Escape X: Unblock Puzzle (package `com.bosantechub.arrowescap`)  
+**Provider (Trader):** Muhammad Atif, trading as TeraBit Tech  
+**Effective Date:** November 12, 2026  
 **Last Updated:** November 12, 2026
 
 ---
@@ -92,6 +92,6 @@ Before starting any formal dispute, please contact us at atifbosan63@gmail.com s
 
 For questions, support, or complaints about the App or these Terms:
 
-**Email:** atifbosan63@gmail.com
-**Phone:** +92 302 6444343
+**Email:** atifbosan63@gmail.com  
+**Phone:** +92 302 6444343  
 **Address:** Basti Bosan, Dak Khana Raikh Baghwala, Rukh Baghwala, Tehsil and District Rajanpur, Rajanpur 33500, Pakistan
